@@ -1,7 +1,4 @@
 
-### 📄 File 2: `PROJECT_STATE.md`
-
-```markdown
 # PROJECT_STATE — Aevum Builder Challenge #1
 
 > Single source of truth. Any new session: read this first, then docs/workflow/.
@@ -56,6 +53,4 @@ SETUP COMPLETE → next: PROJECT SELECTION (not yet finalized — do not build u
 ## Open questions
 - Project not finalized (user decision pending)
 - Confirm python3 available (needed for ui-ux-pro-max scripts)
-```
 
----
