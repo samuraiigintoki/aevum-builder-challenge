@@ -59,23 +59,3 @@ SETUP COMPLETE → next: PROJECT SELECTION (not yet finalized — do not build u
 ```
 
 ---
-
-### 💾 How to save them
-
-**Option A — editor:** open your repo folder in VS Code (or `nano AGENTS.md` / `nano PROJECT_STATE.md` in the terminal from the repo root), paste, save.
-
-**Option B — terminal, fastest:** from the repo root, run `cat > AGENTS.md`, press Enter, paste the content, then press `Ctrl+D` to save. Repeat for `PROJECT_STATE.md`.
-
-Then commit and push:
-
-```bash
-git add AGENTS.md PROJECT_STATE.md
-git commit -m "docs: add session continuity system (AGENTS.md, PROJECT_STATE.md)"
-git push
-```
-
----
-
-**Verify it worked:** open `https://github.com/samuraiigintoki/aevum-builder-challenge` in a logged-out browser (or incognito) — both files should be visible at the repo root. That's the same test the judges will run.
-
-Once pushed, tell me — and if you want, I can also give you a single paste-once terminal command that creates both files automatically. Then we're ready for the project grilling session. 🎯
