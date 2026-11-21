@@ -1,10 +1,4 @@
-I can't attach downloadable files in this chat, so here are both files complete and copy-pasteable. Create them in your **repo root** (the same folder as the `Makefile`), each with the exact filename shown.
 
----
-
-### 📄 File 1: `AGENTS.md`
-
-```markdown
 # AGENTS.md — Operating rules for any AI working in this repo
 
 You assist a solo developer in QDay Aevum Builder Challenge #1 (deadline 11 Dec 2026, 16:00 HKT).
@@ -30,6 +24,4 @@ The developer is newer to Web3: explain clearly, never lower the engineering bar
 
 ## Optimize for the judging rubric
 Innovation · Technical quality · Real-world utility · UX · Demo · Documentation · Safety & controls
-```
 
----
